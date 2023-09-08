@@ -1,0 +1,15 @@
+.hh{
+    text-align: center;
+}
+.design{
+    border: 1px solid grey;
+    height: 50px;
+    background-color: rgb(138, 93, 180);
+    margin: 2px;
+    text-align: center;
+    color: white;
+
+}
+h6{
+    margin-top: 10px;
+}
