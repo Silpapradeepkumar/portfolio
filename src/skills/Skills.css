@@ -1,0 +1,43 @@
+/* .div01{
+    margin-top: 71px;
+    height: 400px;
+    background-color: black;
+} */
+
+
+.div{
+    /* margin-top: 180px; */
+   
+    height: 100px;
+    width: 750px;
+    display: flex;
+    flex-direction: row;
+
+}
+.div1{
+
+   border-radius: 20px;
+}
+.h{
+   
+    width: fit-content;
+}
+@media only screen and (min-width: 600px) {
+    .h{
+        
+        margin-left: 180px;
+    }
+}
+.heading{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+   
+}
+h2{
+    margin-top: 20px;
+}
+.imgss{
+    height: 294px;
+    width: 715px;
+}

@@ -1,0 +1,48 @@
+
+/* .newdiv{
+    background-color: #060600;
+    height: 400px;
+} */
+.cde{
+      
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;  
+    margin-left: 381px;
+}
+.contact{
+    margin-top: 20px;
+    text-align: center;
+}
+.acc
+{     
+    margin-top: 92px;
+    margin-left: 82px;
+    text-align: center;  
+}
+
+/* @media only screen and (min-width: 600px) { 
+    .ac{
+        
+        margin-left: 100px;
+    }
+} */
+.address{
+    margin-top: 10px;
+    text-align: center;
+    margin-left: 200px;
+    border: 1px solid #b5ab12;
+    height: 250px;
+    width: 250px;
+    box-shadow: 2px 2px 2px 2px;
+}
+.a1{
+
+    color: rgb(255, 253, 253);
+    height: 88px;
+    margin-top: 30px;
+
+}
+h2,h3{
+    color: white;
+}

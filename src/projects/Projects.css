@@ -1,0 +1,48 @@
+.hh{
+    text-align: center;
+}
+.design {
+    border: 1px solid grey;
+    height: 137px;
+    border: 1px solid #b5ab12;
+    box-shadow: 1px 1px 1px 1px;
+    margin: 2px;
+    text-align: center;
+    color: white;
+    width: 30%;
+    margin: 20px;
+    margin-top: 79px;
+}
+.d1{
+    background-image: url(./p1.png);
+    background-size: 330px;
+ 
+ background-repeat: no-repeat;
+  border: 2px solid;
+  
+}
+.d2{
+    background-image: url(./p2.png);
+    background-size: 330px;
+ 
+ background-repeat: no-repeat;
+  border: 2px solid;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+h6{
+    margin-top: 10px;
+}
+/* .divs1{
+    
+   height: 400px;
+   background-color: black;
+    
+
+} */
+
+.flexclass{
+    display: flex;
+    flex-direction: row;
+}
